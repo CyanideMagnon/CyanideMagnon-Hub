@@ -1,2 +1,2 @@
-# The-Image-Vault
-A collection of images made by me and my friends put in a collection in HTML.
+# CyanideMagnon Hub
+A collection of projects made by CyanideTech and FrodoBaggins52 (CyanideMagnon)
